@@ -1,0 +1,20 @@
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.frmCalculoIMC.resources
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\estevam.mfcampos\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.frmCalculoIMC.resources
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\janete.apsilva\OneDrive - SENAC - SP\TI44\UC12-Desenvolvimento Desktop\Projetos.NET\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb

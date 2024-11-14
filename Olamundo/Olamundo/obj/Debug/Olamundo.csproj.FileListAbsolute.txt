@@ -1,0 +1,10 @@
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\bin\Debug\Olamundo.exe.config
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\bin\Debug\Olamundo.exe
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\bin\Debug\Olamundo.pdb
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.csproj.AssemblyReference.cache
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.Properties.Resources.resources
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.csproj.GenerateResource.cache
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.csproj.CoreCompileInputs.cache
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.exe
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.pdb
+C:\Users\janete.apsilva\source\repos\Olamundo\Olamundo\obj\Debug\Olamundo.frmOlaMundo.resources
